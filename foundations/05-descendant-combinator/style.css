@@ -1,0 +1,12 @@
+.container .text {
+    background-color:yellow;
+    color:red;
+    font-size:20px;
+    text-align:center;
+}
+
+/* could also use combinations of the following:
+    div p{
+    div .text{
+    .container p{
+*/
