@@ -1,0 +1,20 @@
+.odd{
+    background-color:rgb(255, 0, 98);
+    font-family:"Verdana", "Dejavu Sans", sans-serif;
+}
+
+#second{
+    color:blue;
+    font-size:36px;
+}
+
+#fourth{
+    background-color:rgb(15, 128, 0);
+    font-size:24px;
+    font-weight:bold;
+}
+
+.odd#third{
+    font-size:24px;
+}
+ /* Could create a font-weight 24px class for the third and fourth elements rather than creating a new id for the third element*/
